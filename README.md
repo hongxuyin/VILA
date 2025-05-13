@@ -13,11 +13,11 @@
 VILA is a family of open VLMs designed to optimize both efficiency and accuracy for efficient video understanding and multi-image understanding. 
 
 ## 💡 News
-
+- \[2025/3\] NaVILA, i.e., VILA's successful real-time deployment on robots in real-world environemnt for Vision-Language-Action tasks is now accepted at RSS 2025! [code](https://navila-bot.github.io/)
 - \[2025/1\] As of January 6, 2025 VILA is now part of the new Cosmos Nemotron vision language models.
 - \[2024/12\] We release [NVILA](https://arxiv.org/abs/2412.04468) (a.k.a VILA2.0) that explores the full stack efficiency of multi-modal design, achieving cheaper training, faster deployment and better performance.
 - \[2024/12\] We release [LongVILA](./longvila/README.md) that supports long video understanding, with long-context VLM with more than 1M context length and multi-modal sequence parallel system.
-- \[2024/10\] VILA-M3, a SOTA medical VLM finetuned on VILA1.5 is released! VILA-M3 significantly outperforms Llava-Med and on par w/ Med-Gemini and is fully opensourced! [code](https://github.com/Project-MONAI/VLM#-news) [model](https://huggingface.co/MONAI)
+- \[2024/10\] VILA-M3, a SOTA medical VLM finetuned on VILA1.5 is released! VILA-M3 significantly outperforms Llava-Med and on par w/ Med-Gemini and is fully open-sourced! [code](https://github.com/Project-MONAI/VLM#-news) [model](https://huggingface.co/MONAI)
 - \[2024/10\] We release [VILA-U](https://github.com/mit-han-lab/vila-u): a Unified foundation model that integrates Video, Image, Language understanding and generation.
 - \[2024/07\] VILA1.5 also ranks 1st place (OSS model) on [MLVU test leaderboard](https://github.com/JUNJIE99/MLVU).
 - \[2024/06\] VILA1.5 is now the best open sourced VLM on [MMMU leaderboard](https://mmmu-benchmark.github.io/#leaderboard) and [Video-MME](https://video-mme.github.io/home_page.html#leaderboard) leaderboard!
